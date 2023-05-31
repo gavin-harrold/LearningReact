@@ -1,4 +1,4 @@
-# Learning React
+# Learning React (Tic Tac Toe)
 This project is designed to teach React, following along with the tutorial in the Getting Started section on the React website.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
