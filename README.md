@@ -1,3 +1,6 @@
+# Learning React
+This project is designed to teach React, following along with the tutorial in the Getting Started section on the React website.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
